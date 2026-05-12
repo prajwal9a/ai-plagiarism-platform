@@ -53,6 +53,8 @@ app.add_middleware(
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         FRONTEND_URL,
+        "https://ai-plagiarism-platform.vercel.app",
+        "https://ai-plagiarism-platform-git-main-prajwal9as-projects.vercel.app",
         "https://ai-plagiarism-platform-7fph.vercel.app",
         "https://ai-plagiarism-platform-7fph-git-main-prajwal9as-projects.vercel.app",
     ],
